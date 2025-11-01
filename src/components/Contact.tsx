@@ -120,7 +120,7 @@ export default function Contact() {
                 <Button
                   type="submit"
                   disabled={isSubmitting}
-                  className="w-full gradient-primary text-primary-foreground shadow-glow hover:shadow-xl transition-all group"
+                  className="w-full gradient-primary text-white shadow-glow hover:shadow-xl transition-all group"
                 >
                   {isSubmitting ? (
                     'Enviando...'
@@ -166,11 +166,11 @@ export default function Contact() {
                 </div>
               </div>
 
-              <div className="bg-gradient-primary rounded-2xl p-8 text-primary-foreground shadow-glow">
-                <h3 className="font-display font-bold text-2xl mb-4">
+              <div className="bg-gradient-primary rounded-2xl p-8 shadow-glow">
+                <h3 className="font-display font-bold text-2xl mb-4 text-white">
                   Vamos trabalhar juntos?
                 </h3>
-                <p className="leading-relaxed">
+                <p className="leading-relaxed text-white/95">
                   Estou sempre aberto a novas oportunidades de colaboração, 
                   projetos de pesquisa e consultoria farmacêutica. Entre em contato!
                 </p>

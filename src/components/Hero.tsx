@@ -63,7 +63,7 @@ export default function Hero() {
             <Button
               size="lg"
               onClick={scrollToContact}
-              className="gradient-primary text-primary-foreground shadow-glow hover:shadow-xl transition-all text-lg px-8 group"
+              className="gradient-primary text-white shadow-glow hover:shadow-xl transition-all text-lg px-8 group"
             >
               <Mail className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform" />
               Entre em Contato
@@ -71,7 +71,7 @@ export default function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all text-lg px-8 group"
+              className="border-2 border-primary text-primary hover:bg-primary hover:text-white transition-all text-lg px-8 group"
               asChild
             >
               <a href="#" download>
