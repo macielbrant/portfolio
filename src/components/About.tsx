@@ -39,10 +39,10 @@ export default function About() {
           {/* Bio */}
           <div className="bg-card rounded-2xl p-8 md:p-12 shadow-card mb-12 animate-slide-up">
             <p className="text-lg text-foreground/80 leading-relaxed mb-6">
-              Sou farmacêutico clínico com especialização em análise de qualidade, dedicado a 
-              garantir a segurança e eficácia dos medicamentos que chegam aos pacientes. Com 
-              formação sólida em ciências farmacêuticas e experiência prática em ambientes 
-              hospitalares e laboratoriais, busco sempre a excelência no cuidado farmacêutico.
+              Possuo sólida habilidade de comunicação, fácil aprendizado e forte espírito de equipe e
+              dedicação ao sucesso dos objetivos a serem alcançados. Na função que me for designada,
+              farei dos objetivos da empresa os meus próprios objetivos com a intenção de proporcionar a
+              melhor serviço e experiência a cada cliente.
             </p>
             <p className="text-lg text-foreground/80 leading-relaxed mb-6">
               Minha atuação profissional é pautada pela integração entre o conhecimento 

@@ -42,13 +42,13 @@ export default function Contact() {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/maciel-brant',
       color: 'text-blue-600',
     },
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com',
+      href: 'https://github.com/macielbrant',
       color: 'text-foreground',
     },
   ];
@@ -167,10 +167,10 @@ export default function Contact() {
               </div>
 
               <div className="bg-gradient-primary rounded-2xl p-8 shadow-glow">
-                <h3 className="font-display font-bold text-2xl mb-4 text-white">
+                <h3 className="font-display font-bold text-2xl mb-4 text-black">
                   Vamos trabalhar juntos?
                 </h3>
-                <p className="leading-relaxed text-white/95">
+                <p className="leading-relaxed text-black/95">
                   Estou sempre aberto a novas oportunidades de colaboração, 
                   projetos de pesquisa e consultoria farmacêutica. Entre em contato!
                 </p>
