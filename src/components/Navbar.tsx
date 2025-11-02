@@ -27,8 +27,10 @@ export default function Navbar() {
   const navLinks = [
     { label: 'Início', id: 'inicio' },
     { label: 'Sobre', id: 'sobre' },
+    { label: 'Objetivo', id: 'objetivo' },
     { label: 'Experiência', id: 'experiencia' },
     { label: 'Formação', id: 'formacao' },
+    { label: 'Idiomas', id: 'idiomas' },
     { label: 'Projetos', id: 'projetos' },
     { label: 'Contato', id: 'contato' },
   ];
