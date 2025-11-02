@@ -8,8 +8,8 @@ export default function Projects() {
 
   const projects = [
     {
-      title: 'Protocolo de Reconciliação Medicamentosa',
-      description: 'Desenvolvimento e implementação de protocolo para reconciliação medicamentosa em ambiente hospitalar.',
+      title: 'Dispensação e Acompanhamento Farmacoterapêutico',
+      description: 'Projeto voltado à orientação farmacêutica e ao uso racional de medicamentos, com foco em segurança e eficácia terapêutica durante o estágio supervisionado.',
       fullDescription:
         'Projeto desenvolvido para reduzir erros de medicação através da implementação sistemática de reconciliação medicamentosa. Incluiu treinamento de equipe multidisciplinar, criação de formulários padronizados e integração com sistema eletrônico de prescrição. Resultou em redução de 45% nos erros de medicação identificados.',
       icon: FileText,
@@ -17,8 +17,8 @@ export default function Projects() {
       link: '#',
     },
     {
-      title: 'Análise de Estabilidade de Formulações Magistrais',
-      description: 'Pesquisa sobre estabilidade e prazo de validade de medicamentos manipulados.',
+      title: 'Controle e Armazenamento de Medicamentos em Farmácias Comerciais',
+      description: 'Estudo sobre boas práticas de armazenamento, controle de estoque e gestão de validade de medicamentos, alinhado às normas da ANVISA.',
       fullDescription:
         'Estudo laboratorial focado na análise físico-química e microbiológica de formulações magistrais. Avaliação de diferentes condições de armazenamento e estabelecimento de prazos de validade baseados em evidências científicas. Publicado em revista científica nacional.',
       icon: FlaskConical,
@@ -26,8 +26,8 @@ export default function Projects() {
       link: '#',
     },
     {
-      title: 'Farmacovigilância em UTI',
-      description: 'Monitoramento e análise de reações adversas a medicamentos em unidade de terapia intensiva.',
+      title: 'Avaliação de Sinais Vitais e Atendimento Humanizado',
+      description: 'Projeto voltado à mensuração de glicemia, pressão arterial e temperatura, promovendo o acolhimento e o cuidado integral ao paciente.',
       fullDescription:
         'Implementação de sistema de farmacovigilância ativa em UTI, incluindo identificação, documentação e análise de causalidade de reações adversas a medicamentos. Desenvolvimento de estratégias preventivas e educação continuada da equipe multidisciplinar.',
       icon: Search,

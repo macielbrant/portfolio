@@ -39,15 +39,12 @@ export default function About() {
           {/* Bio */}
           <div className="bg-card rounded-2xl p-8 md:p-12 shadow-card mb-12 animate-slide-up">
             <p className="text-lg text-foreground/80 leading-relaxed mb-6">
-              Possuo sólida habilidade de comunicação, fácil aprendizado e forte espírito de equipe e
-              dedicação ao sucesso dos objetivos a serem alcançados. Na função que me for designada,
-              farei dos objetivos da empresa os meus próprios objetivos com a intenção de proporcionar a
-              melhor serviço e experiência a cada cliente.
+              Sou um profissional com olhar atento e empatia nas relações humanas. Tenho facilidade em aprender, 
+              comunicar e trabalhar em equipe, mantendo sempre a ética e o compromisso com resultados.
             </p>
             <p className="text-lg text-foreground/80 leading-relaxed mb-6">
-              Minha atuação profissional é pautada pela integração entre o conhecimento 
-              científico e a prática humanizada, sempre focando no bem-estar do paciente e 
-              na qualidade dos processos farmacêuticos.
+              Transformo desafios em aprendizado e coloco o cuidado com o cliente e o paciente como prioridade. 
+              Acredito que a profissão farmacêutica é mais que técnica — é uma forma de servir com propósito e responsabilidade.
             </p>
             <p className="text-lg text-foreground/80 leading-relaxed">
               Acredito que a farmácia vai além da dispensação de medicamentos — é uma profissão 

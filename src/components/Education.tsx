@@ -3,22 +3,28 @@ import { GraduationCap } from 'lucide-react';
 export default function Education() {
   const education = [
     {
-      degree: 'Mestrado em Ciências Farmacêuticas',
-      institution: 'Universidade Federal do Ceará',
+      degree: 'Bacharel em Farmácia',
+      institution: 'Centro Universitário de Tecnologia e Ciências – Unifatecie',
+      year: 'Junho - 2025',
+      description: 'Formação ampla em ciências farmacêuticas, com foco em farmacologia, análises clínicas, controle de qualidade e gestão de farmácias.',
+    },
+    {
+      degree: 'Curso de Aperfeiçoamento – Medicina Aeroespacial',
+      institution: 'Ministério da Defesa / Força Aérea Brasileira',
       year: '2023',
-      description: 'Pesquisa em análise e controle de qualidade de medicamentos',
+      description: 'Treinamento em primeiros socorros, sobrevivência na selva e combate a incêndio, com ênfase em protocolos de emergência médica e segurança.',
     },
     {
-      degree: 'Especialização em Farmácia Clínica e Hospitalar',
-      institution: 'Faculdade de Medicina do Cariri',
-      year: '2020',
-      description: 'Foco em farmacoterapia e acompanhamento de pacientes',
+      degree: 'Curso de Atendimento ao Cliente e Relações Humanas',
+      institution: 'Senac – MG',
+      year: '2022',
+      description: 'Aprimoramento de comunicação, empatia e fidelização no atendimento farmacêutico e hospitalar.',
     },
-    {
-      degree: 'Graduação em Farmácia',
-      institution: 'Universidade Regional do Cariri',
-      year: '2018',
-      description: 'Formação completa em ciências farmacêuticas',
+     {
+      degree: 'Curso de Rotinas Administrativas e Contabilidade Aplicada',
+      institution: 'Microlins – MG',
+      year: '2021',
+      description: 'Noções de gestão e processos administrativos voltados ao setor de saúde.',
     },
   ];
 

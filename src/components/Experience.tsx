@@ -3,25 +3,32 @@ import { Briefcase, Calendar } from 'lucide-react';
 export default function Experience() {
   const experiences = [
     {
-      company: 'Hospital Regional do Cariri',
-      position: 'Farmacêutico Clínico',
-      period: '2022 - Presente',
+      company: 'Multimed',
+      position: 'Atendimento Farmacêutico',
+      period: '2025',
       description:
-        'Responsável pela análise e validação de prescrições médicas, acompanhamento farmacoterapêutico de pacientes internados, e implementação de protocolos de segurança medicamentosa.',
+        'Responsável pela dispensação de medicamentos, anamnese farmacêutica e suporte na aplicação de injetáveis, com foco em segurança terapêutica e atenção ao paciente.',
     },
     {
-      company: 'Laboratório de Análises Clínicas LabMed',
-      position: 'Analista de Qualidade',
-      period: '2020 - 2022',
+      company: 'Gol Linhas Aéreas',
+      position: 'Agente de Aeroporto',
+      period: '2022 – 2023',
       description:
-        'Atuação no controle de qualidade de medicamentos, validação de processos analíticos, e garantia de conformidade com as normas da ANVISA e boas práticas de fabricação.',
+        'Atendimento humanizado ao público, gestão de documentação e embarque, resolução de imprevistos e operação sob pressão.',
     },
     {
-      company: 'Farmácia Hospitalar Santa Casa',
-      position: 'Farmacêutico Assistente',
-      period: '2018 - 2020',
+      company: 'Hotel Intercity / Dubai Hotéis (MG)',
+      position: 'Agente de Hospedagem',
+      period: '2020 – 2022',
       description:
-        'Gestão de estoque de medicamentos, atendimento farmacêutico, orientação a pacientes e familiares sobre uso correto de medicamentos, e suporte à equipe médica.',
+        'Coordenação de reservas, recepção bilíngue e experiência de atendimento de excelência.',
+    },
+    {
+      company: 'Santa Casa de Montes Claros (MG)',
+      position: 'Recepcionista Hospitalar',
+      period: '2018 – 2020',
+      description:
+        'Acolhimento de pacientes, controle de prontuários e apoio às rotinas de enfermagem e farmácia hospitalar.',
     },
   ];
 
