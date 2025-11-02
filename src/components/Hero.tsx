@@ -40,7 +40,7 @@ export default function Hero() {
               <img
                 src={profileImage}
                 alt="Maciel de Souza Brant"
-                className="relative w-40 h-40 rounded-full object-cover border-4 border-background shadow-glow"
+                className="relative w-44 h-44 rounded-full object-top border-4 border-background shadow-glow"
               />
             </div>
           </div>
