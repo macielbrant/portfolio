@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=/portfolio/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirecting…</title>
+    <script>
+      // Try to preserve path by switching to hash-based route
+      (function () {
+        var base = '/portfolio/';
+        var path = location.pathname.replace(/^\/portfolio\/?/, '');
+        if (path) {
+          location.replace(base + '#' + path + location.search + location.hash);
+        } else {
+          location.replace(base);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    Redirecting…
+  </body>
+</html>
